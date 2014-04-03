@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DACBC877-1227-43A0-A544-6AF98D6D2057</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MetroProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>018E6378-32B6-4DFD-AC4E-3BEA2D093065</key>
+		<string>https://github.com/olegaleksandrovich/MetroProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MetroProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>018E6378-32B6-4DFD-AC4E-3BEA2D093065</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/olegaleksandrovich/MetroProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>018E6378-32B6-4DFD-AC4E-3BEA2D093065</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>018E6378-32B6-4DFD-AC4E-3BEA2D093065</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MetroProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
